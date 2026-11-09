@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "titulo": "Estudiar Node.js",
+    "descripcion": "Repasar el Event Loop y la asincronía",
+    "completada": true,
+    "creadaPor": "alan",
+    "creadaEn": "2026-11-09T19:17:32.652Z",
+    "actualizadaEn": "2026-11-09T19:17:50.364Z"
+  },
+  {
+    "id": 2,
+    "titulo": "Entregar la actividad 3",
+    "descripcion": "Subir el proyecto a GitHub con el video y el documento",
+    "completada": false,
+    "creadaPor": "alan",
+    "creadaEn": "2026-11-09T19:17:36.517Z",
+    "actualizadaEn": "2026-11-09T19:17:54.241Z"
+  },
+  {
+    "id": 4,
+    "titulo": "Practicar Postman",
+    "descripcion": "Probar todas las rutas de la API",
+    "completada": false,
+    "creadaPor": "alan",
+    "creadaEn": "2026-11-09T19:17:42.490Z",
+    "actualizadaEn": null
+  }
+]

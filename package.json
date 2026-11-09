@@ -1,0 +1,21 @@
+{
+  "name": "api-tareas",
+  "version": "1.0.0",
+  "description": "API RESTful de tareas con Node.js, Express, fs.promises y JWT",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "debug": "node --inspect server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^2.4.0",
+    "express": "^4.22.3",
+    "jsonwebtoken": "^9.0.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
